@@ -7,3 +7,12 @@ Support send email to more than one person
 支持发送多人邮件
 
 ![image](https://github.com/JackWong025/SimpleEmailClient/blob/master/1.jpg)
+
+
+![image](https://github.com/JackWong025/SimpleEmailClient/blob/master/2.jpg)
+
+
+![image](https://github.com/JackWong025/SimpleEmailClient/blob/master/3.jpg)
+
+
+![image](https://github.com/JackWong025/SimpleEmailClient/blob/master/4.jpg)
