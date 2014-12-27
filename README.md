@@ -6,4 +6,4 @@ My homework,a java email client use smtp and pop3 without java Mail,
 Support send email to more than one person
 支持发送多人邮件
 
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+![image](https://github.com/JackWong025/SimpleEmailClient/blob/master/1.jpg)
